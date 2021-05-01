@@ -5,6 +5,8 @@
   "desktop": {
     "js": [
       "https://js.cybozu.com/jquery/3.3.1/jquery.min.js",
+      "js/kuc.min.js",
+      "js/marked.min.js",
       "js/desktop.js"
     ],
     "css": [
@@ -18,6 +20,7 @@
     "js": [
       "https://js.cybozu.com/jquery/3.3.1/jquery.min.js",
       "js/kintone-config-helper.js",
+      "js/kuc.min.js",
       "js/config.js"
     ],
     "css": [
