@@ -25,6 +25,9 @@
       "css/config.css"
     ],
     "required_params": [
+      "inputTextField",
+      "outputSpaceField",
+      "buttonSpaceField"
     ]
   },
   "name": {
