@@ -11,6 +11,7 @@
     ],
     "css": [
       "css/51-modern-default.css",
+      "css/github-markdown-css.css",
       "css/desktop.css"
     ]
   },
