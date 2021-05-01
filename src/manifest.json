@@ -5,10 +5,13 @@
   "desktop": {
     "js": [
       "https://js.cybozu.com/jquery/3.3.1/jquery.min.js",
+      "js/kuc.min.js",
+      "js/marked.min.js",
       "js/desktop.js"
     ],
     "css": [
       "css/51-modern-default.css",
+      "css/github-markdown-css.css",
       "css/desktop.css"
     ]
   },
@@ -17,6 +20,8 @@
     "html": "html/config.html",
     "js": [
       "https://js.cybozu.com/jquery/3.3.1/jquery.min.js",
+      "js/kintone-config-helper.js",
+      "js/kuc.min.js",
       "js/config.js"
     ],
     "css": [
@@ -24,6 +29,9 @@
       "css/config.css"
     ],
     "required_params": [
+      "inputTextField",
+      "outputSpaceField",
+      "buttonSpaceField"
     ]
   },
   "name": {
