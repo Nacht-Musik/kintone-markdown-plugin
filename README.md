@@ -8,12 +8,11 @@
 
 ## 導入方法
 
-1. プラグインファイルをダウンロードする
-    - 工事中
+1. [配布ページ](https://github.com/Nacht-Musik/kintone-markdown-plugin/releases) から `markdown-plugin.zip` をダウンロードする。
 1. 上記でダウンロードしたプラグインファイルをkintoneに追加する。
-    - [kintoneヘルプ： プラグインを追加／削除する（システム管理）](https://jp.cybozu.help/k/ja/admin/add_plugin/plugin.html)
+    - 参考ページ：[kintoneヘルプ： プラグインを追加／削除する（システム管理）](https://jp.cybozu.help/k/ja/admin/add_plugin/plugin.html)
 1. 適用したいアプリの設定画面から `Markdownプラグイン` を追加する
-    - [kintoneヘルプ： プラグインを追加／削除する(アプリ設定）](https://jp.cybozu.help/k/ja/user/app_settings/plugin.html)
+    - 参考ページ：[kintoneヘルプ： プラグインを追加／削除する(アプリ設定）](https://jp.cybozu.help/k/ja/user/app_settings/plugin.html)
 1. アプリに次のフィールドを追加する。
     1.  文字列（複数行）：Markdown変換対象フィールド
     1.  スペース：Markdown変換後の表示用フィールド
@@ -32,7 +31,7 @@
 
 ### レコードの詳細画面の表示
 
-- レコードの詳細画面を表示すると自動で指定の表示フィールドに変換後の
+- レコードの詳細画面を表示する。（自動で指定フィールドが変換されます）
 
 ---
 
