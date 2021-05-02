@@ -53,7 +53,11 @@
 
 ## ライセンス
 
-- 後日追加予定
+```text
+MIT License
+
+Copyright (c) 2021 Nacht Musik
+```
 
 ---
 
